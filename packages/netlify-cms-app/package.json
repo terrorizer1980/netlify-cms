@@ -32,7 +32,7 @@
     "codemirror": "^5.46.0",
     "immutable": "^3.7.6",
     "lodash": "^4.17.11",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "netlify-cms-backend-azure": "^1.2.2",
     "netlify-cms-backend-bitbucket": "^2.13.3",
     "netlify-cms-backend-git-gateway": "^2.12.2",
