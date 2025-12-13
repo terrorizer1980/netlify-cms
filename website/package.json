@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@emotion/cache": "^10.0.29",
-    "@emotion/core": "^10.0.35",
+    "@emotion/core": "^10.3.1",
     "@emotion/styled": "^10.0.27",
     "dayjs": "^1.8.23",
     "emotion-theming": "^10.0.27",
